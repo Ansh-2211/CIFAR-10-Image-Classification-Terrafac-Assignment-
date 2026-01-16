@@ -1,0 +1,1 @@
+Download Cifar-10 model.keras file(https://drive.google.com/file/d/1-CT3Z_xDOc7MPLNkL6VIOz6zatG20iXg/view?usp=drivesdk)
